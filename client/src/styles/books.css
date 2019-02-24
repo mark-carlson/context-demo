@@ -1,0 +1,9 @@
+.like {
+    margin-right: 5px;
+    border: none;
+    background: none;
+}
+.like-count {
+    font-size: .825rem;
+    margin-left: 5px;
+}
